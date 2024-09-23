@@ -1,4 +1,4 @@
-# **Welcome!**
+**Welcome!**
 
 ## Purpose
 I have created this ticket comparing site to skip the hassle of viewing multiple sites just to compare prices. I wanted a centralized place where I could find all current prices, while also enjoying some other good-to-know features such as the view.
